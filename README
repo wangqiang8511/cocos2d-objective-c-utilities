@@ -1,0 +1,8 @@
+Here are some utilities we used in our iOS cocos2d project.
+It make help you somehow.
+
+Lib dependence
+==============
+ASHIHTTPRequest
+SBJSON
+cocos2d
